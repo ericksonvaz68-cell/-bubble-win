@@ -1,2 +1,2 @@
 bubble-win
-    bubble-win
+    bubble-win 2
